@@ -8,8 +8,9 @@ img{
 .gallery img{
 	background-color: #ffffff;
 	padding: 0px;
-	width: 100%;
+	width: 90%;
 	border-radius: 15px;
+	text-align: center;
 	
 	
 }
