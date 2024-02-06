@@ -15,7 +15,7 @@ img{
 	background-color: #ffffff;
 	padding: 0px;
 	
-	width: 90%;
+	width: 95%;
 	border-radius: 15px;
 	text-align: center;
 	
@@ -41,7 +41,9 @@ text-align: center;
 padding: 3%;
 }
 .img-enlace {
-	height: 60%;
+	height: 70%;
+	width: 100%;
+	
 }
 
 #Gallery-2{
