@@ -55,3 +55,45 @@ font-size: 18px;
 	padding: 15px 0;
 	
 }
+
+.stamp-container {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        width: 14rem;
+       margin-top: -13.5rem;
+    margin-right: 100px;
+    }
+
+    .stamp-box {
+        width: 100px;
+        height: 112px;
+        position: relative;
+    }
+
+    .stamp {
+        width: 100%;
+        height: 100%;
+        position: absolute;
+    }
+
+    .stack-top {
+        z-index: 9;
+    }
+
+    .stamp-movil {
+        display: none;
+    }
+
+    @media (max-width: 1150px) {
+        .stamp-container {
+            display: none;
+        }
+        #norticmovil{    display: flex!important;
+    margin-top: 20px;}
+
+        .stamp-movil {
+            display: flex;
+            justify-content: center;
+        }
+    }
