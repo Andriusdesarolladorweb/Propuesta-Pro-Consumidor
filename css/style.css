@@ -61,11 +61,11 @@ font-size: 18px;
 
   padding: 10px 40px;
 }
-.container .swiper-container{
+.conta .swiper-conta{
   width: 100%;
   height: 100%;
 }
-.container .swiper-slide {
+.conta .swiper-slide {
   position: relative;
   text-align: center;
   font-size: 18px;
@@ -75,7 +75,7 @@ font-size: 18px;
   box-shadow: 0px 4px 4px rgba(196, 196, 196, 0.25);
  
 }
-.container .swiper-slide img{
+.conta .swiper-slide img{
    display: block;
     width: 100%;
     height: 180px;
@@ -84,22 +84,9 @@ font-size: 18px;
     border-top-right-radius: 15px;
 
 }
-.container .swiper-slide .card-description{
+.conta .swiper-slide .card-description{
     padding:1rem 1rem;
 }
-.container .swiper-slide .card-title,.container .swiper-slide .card-text{
+.conta .swiper-slide .card-title,.container .swiper-slide {
    margin-bottom: .5rem;
 }
-.container .swiper-slide .card-link{
-   text-align: center;
-  
-}
-.container .swiper-slide .card-link a{
-    text-decoration: none;
-    color: #1d6ce2;
-}
-.swiper-button-next{
-    right: 26px !important;
-}
-.swiper-button-prev{
-    left: 26px !important;
