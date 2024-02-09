@@ -87,3 +87,15 @@ color: #65D932;
       margin-left: .5em;
     }
   }
+
+
+.fondo-img{
+   position: absolute;
+    botton: 0;
+    left: 0;
+    rigt: 0;
+    top: 0;
+    background-position: center;
+     background-size: cover;
+    opacity:0.5;
+}
