@@ -99,3 +99,10 @@ color: #65D932;
      background-size: cover;
     opacity:0.5;
 }
+
+.carousel-item{
+    height: 32rem;
+    background: #777;
+    color: white;
+    Position: relative;
+}
