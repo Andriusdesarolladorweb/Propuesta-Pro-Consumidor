@@ -91,15 +91,20 @@ color: #65D932;
 
 .fondo-img{
    position: absolute;
-    botton: 0;
+    bottom: 0;
     left: 0;
-    rigt: 0;
+    right: 0;
     top: 0;
     background-position: center;
      background-size: cover;
     opacity:0.5;
 }
 
+.carousel-caption{
+   margin-bottom: 50px;
+   font-family: 'Times New Roman', Times, serif;
+   text-align: justify;
+}
 .carousel-item{
     height: 32rem;
     background: #777;
@@ -109,8 +114,8 @@ color: #65D932;
 
 .container{
     position: absolute;
-    botton: 0;
+   bottom: 0;
     left: 0;
-    rigt: 0;
-     padding-botton: 50px;
+    right: 0;
+    padding-bottom: 50px;
 }
