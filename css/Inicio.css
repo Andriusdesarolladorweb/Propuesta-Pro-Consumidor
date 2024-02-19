@@ -75,7 +75,7 @@ color: #65D932;
     margin-left: 1em;
   }
   
-  @media screen and (min-width: 1200px) {
+  @media screen and (min-width: 769px) {
     .dropend:hover > .dropdown-menu {
       position: absolute;
       top: 0;
@@ -88,6 +88,8 @@ color: #65D932;
     }
   }
 
+ 
+
 
 .fondo-img{
    position: absolute;
@@ -98,6 +100,7 @@ color: #65D932;
     background-position: center;
      background-size: cover;
     opacity:0.5;
+    
 }
 
 .carousel-caption{
@@ -131,3 +134,17 @@ color: #65D932;
 }
 
 
+@media (max-width:1200px){
+  #Menu {
+    font-size: 12px;
+    
+  }
+ }
+
+ @media (max-width:1200px){
+  .fondo-img {
+    width: 100%;
+    height: 100%;
+    
+  }
+ }
