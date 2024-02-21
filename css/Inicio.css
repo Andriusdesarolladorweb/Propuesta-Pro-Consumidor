@@ -126,6 +126,7 @@ color: #65D932;
 #Color{
   background: #104274 ;
   color: white;
+
 }
 
 #Color:hover{
@@ -144,7 +145,43 @@ color: #65D932;
  @media (max-width:1200px){
   .fondo-img {
     width: 100%;
-    height: 100%;
+  } 
     
   }
- }
+
+  @media (max-width: 769px) {
+
+
+    .carousel-caption{
+   margin-bottom: 0px;
+ 
+}
+    .Fecha{
+      margin:0px;
+      padding: 0px ;
+      font-family: 'Times New Roman', Times, serif;
+      font-size: 10px;
+     
+      
+   }
+
+   .titulo{
+    margin:2px;
+      padding: 2px ;
+      font-family: 'Times New Roman', Times, serif;
+      font-size: 18px;
+     
+   }
+        
+   .carousel-item {
+    height: 12rem;
+   }
+   
+   .btn-reposive a{
+    font-size: 10px;
+   }
+
+    
+    }
+  
+ 
