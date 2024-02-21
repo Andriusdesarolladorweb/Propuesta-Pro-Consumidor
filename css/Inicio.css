@@ -145,7 +145,13 @@ color: #65D932;
  @media (max-width:1200px){
   .fondo-img {
     width: 100%;
-    height: 100%;
+    height: 15rem;
     
   }
+
+  .carousel-item{
+    height: 15rem;
+  }
+
+  
  }
