@@ -1,88 +1,75 @@
 
+header{
+  max-width: 1500px;
+  align-items: center;
+  background: #104274;
 
-.Container02 {
-  width: 100%;
 }
 
-.Slider-wrapper02 {
-  position: relative;
+.Container02{
+  white-space: nowrap;
+  margin: 0px;
+  padding: 0px;
+ position: relative;
+ overflow: hidden;
 }
 
-.Slider-wrapper02 .slide-button {
-  position: absolute;
-  top: 50%;
-  outline: none;
-  border: none;
-  height: 50px;
-  width: 50px;
-  z-index: 5;
-  color: #fff;
-  display: flex;
+.image-list img{
+  margin: 25px;
+  object-fit: cover;
+  width: calc(85% / 4);
+  user-select: none;
+}
+
+
+.control {
+ margin: 10px;
+  height: 44px;
+  width: 44px;
   cursor: pointer;
-  font-size: 2.2rem;
-  background: #000;
-  align-items: center;
-  justify-content: center;
+  font-size: 1.15rem;
+  position: absolute;
+  text-align: center;
+  line-height: 44px;
+  background: none;
   border-radius: 50%;
-  transform: translateY(-50%);
+  transform: translateY(-459%);
+
+
 }
 
-.Slider-wrapper02 .slide-button:hover {
-  background: #404040;
+.Container02 i:active{
+  transform: translateY(-50%) scale(0.9);
 }
 
-.Slider-wrapper02 .slide-button#prev-slide {
-  left: -25px;
+.Container02 i:first-child{
+  left: -40px;
   display: none;
 }
-
-.Slider-wrapper02 .slide-button#next-slide {
-  right: -25px;
-}
-
-.Slider-wrapper02 .image-list {
-display: grid;
-  grid-template-columns: repeat(10, 1fr);
-  gap: 18px;
-  font-size: 0;
-  list-style: none;
-  margin-bottom: 30px;
-  overflow-x: auto;
-  scrollbar-width: none;
-}
-
-.Slider-wrapper02 .image-list::-webkit-scrollbar {
-  display: none;
-}
-
-
-.Container02 .Slider-scrollbar02 {
-  height: 24px;
-  width: 100%;
-  display: flex;
-  align-items: center;
+.Container02 i:last-child{
+  right: -10px;
 }
 
 
 
 /* Styles for mobile and tablets */
 @media only screen and (max-width: 1023px) {
-  .slider-wrapper02 .slide-button {
+  .Container02 i {
     display: none !important;
   }
 
-  .Slider-wrapper02 .image-list {
+  .Container02 .image-list {
     gap: 10px;
     margin-bottom: 15px;
     scroll-snap-type: x mandatory;
   }
 
-  .Slider-wrapper02 .image-list .image-item {
+  .Container02 .image-list  {
     width: 280px;
     height: 380px;
   }
 
-  .Slider-scrollbar .scrollbar-thumb {
+  .Container02 {
     width: 20%;
   }
 }
