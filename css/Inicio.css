@@ -153,5 +153,29 @@ color: #65D932;
     height: 15rem;
   }
 
+  .carousel-caption p{
+    padding-bottom: 20px;
+    margin: 0px;
+    padding: 0px;
+ }
+
+  .titulo {
+    font-size: 15px;
+    
+  }
+
+  .btn-reposive{
+    
+    height: 0px;
+  }
+   
+  .btn-reposive a {
+    margin: 5px;
+    padding: 5px;
+    font-size: 15px;
+    
+  }
+
+
   
  }
