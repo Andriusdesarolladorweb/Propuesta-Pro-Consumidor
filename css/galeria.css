@@ -54,9 +54,10 @@ header{
   display: none;
 }
 .slider-wrapper .image-list .image-item {
-  width: 325px;
-  height: 400px;
+  width: 350px;
+  height: 300px;
   object-fit: cover;
+  border-raus: 30px;
 }
 .container .slider-scrollbar {
   height: 24px;
