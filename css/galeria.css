@@ -54,8 +54,8 @@ header{
   display: none;
 }
 .slider-wrapper .image-list .image-item {
-  width: 350px;
-  height: 300px;
+  width: 150px;
+  height: 200px;
   object-fit: cover;
   border-raus: 30px;
 }
