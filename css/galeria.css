@@ -15,7 +15,6 @@ header{
 }
 .slider-wrapper .slide-button {
   position: absolute;
-  top: 50%;
   outline: none;
   border: none;
   height: 50px;
