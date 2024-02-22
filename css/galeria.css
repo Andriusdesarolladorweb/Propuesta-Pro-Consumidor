@@ -6,13 +6,6 @@ header{
 
 }
 
-.Container02{
-  white-space: nowrap;
-  margin: 0px;
-  padding: 0px;
- position: relative;
- overflow: hidden;
-}
 
 .image-list img{
   margin: 25px;
@@ -22,33 +15,6 @@ header{
 }
 
 
-.control {
- margin: 10px;
-  height: 44px;
-  width: 44px;
-  cursor: pointer;
-  font-size: 1.15rem;
-  position: absolute;
-  text-align: center;
-  line-height: 44px;
-  background: none;
-  border-radius: 50%;
-  transform: translateY(-459%);
-
-
-}
-
-.Container02 i:active{
-  transform: translateY(-50%) scale(0.9);
-}
-
-.Container02 i:first-child{
-  left: -40px;
-  display: none;
-}
-.Container02 i:last-child{
-  right: -10px;
-}
 
 
 
