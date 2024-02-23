@@ -100,7 +100,7 @@ color: #65D932;
     background-position: center;
      background-size: cover;
     opacity:0.5;
-        height: 32rem;
+        height: 35rem;
       width: 100%;
 }
 
@@ -110,7 +110,7 @@ color: #65D932;
    text-align: justify;
 }
 .carousel-item{
-    height: 32rem;
+    height: 35rem;
     background: #777;
     color: white;
     Position: relative;
