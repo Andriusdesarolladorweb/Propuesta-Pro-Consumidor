@@ -101,7 +101,7 @@ color: #65D932;
      background-size: cover;
     opacity:0.5;
         height: 32rem;
-    
+      width: 100%;
 }
 
 .carousel-caption{
