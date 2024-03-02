@@ -1,3 +1,14 @@
-.text-body{
+.text{
     text-decoration: none;
+    font-size:  15px;
+    color: black;
+  }
+
+
+  .list-unstyled li  {
+    padding: 15px 15px ;
+  }
+
+  .text:hover  {
+    color: #65D932;
   }
