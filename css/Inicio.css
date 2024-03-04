@@ -80,6 +80,7 @@ color: #65D932;
   
   @media screen and (min-width: 769px) {
     .dropend:hover > .dropdown-menu {
+       width: 20%;
       position: absolute;
       top: 0;
       left: 100%;
