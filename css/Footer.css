@@ -14,13 +14,13 @@
   }
 
 
-.buttons {
+.buttons-Redes {
   min-width: 700px;
   display: flex;
   justify-content: space-around;
 }
 
-.buttons a {
+.buttons-Redes a {
   text-decoration: none;
   font-size: 28px;
   width: 60px;
@@ -34,6 +34,6 @@
   transition: all .4s ease-in-out;
 }
 
-.buttons a:hover {
+.buttons-Redes a:hover {
   transform: scale(1.2);
 }
