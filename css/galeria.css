@@ -116,8 +116,8 @@ header{
     scroll-snap-type: x mandatory;
   }
   .slider-wrapper .image-list .image-item {
-    width: 280px;
-    height: 380px;
+    width: 220px;
+    height: 350px;
   }
   .slider-scrollbar .scrollbar-thumb {
     width: 20%;
