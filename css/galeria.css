@@ -123,10 +123,12 @@ header{
     gap: 10px;
     margin-bottom: 15px;
     scroll-snap-type: x mandatory;
+    margin: 2px 3px;
   }
   .slider-wrapper .image-list .image-item {
     width: 250px;
     height: 250px;
+    margin: 0px 0px;
   }
   .slider-scrollbar .scrollbar-thumb {
     width: 20%;
