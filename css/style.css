@@ -68,7 +68,7 @@ font-size: 18px;
 
  @media (min-width: 768px) {
 
-	 .img-enlace {
+	 .gallery img{ {
 	width: 80%;
 	
 }
