@@ -110,14 +110,23 @@ header{
   .slider-wrapper .slide-button {
     display: none !important;
   }
+
+  .container {
+  width: 100%;
+}
+
+  .slider-wrapper {
+  width: 100%;
+}
+  
   .slider-wrapper .image-list {
     gap: 10px;
     margin-bottom: 15px;
     scroll-snap-type: x mandatory;
   }
   .slider-wrapper .image-list .image-item {
-    width: 200px;
-    height: 280px;
+    width: 250px;
+    height: 250px;
   }
   .slider-scrollbar .scrollbar-thumb {
     width: 20%;
