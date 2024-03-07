@@ -66,5 +66,13 @@ font-size: 18px;
 	
 }
 
+ @media (min-width: 768px) {
+
+	 .gallery img{ {
+	width: 80%;
+	
+}
+        }
+      }
 
 
