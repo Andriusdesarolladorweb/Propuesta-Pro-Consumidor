@@ -53,3 +53,13 @@
 .footer{
   color: write;
 }
+
+
+	  @media screen and (max-width: 769px) {
+		.img-footer{
+  width: 100%;
+  margin: 5px;
+}
+			
+	  }
+	}
