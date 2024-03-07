@@ -50,18 +50,21 @@
   margin: 20px;
 }
 
-.footer{
-	
-	margin-top: 30px;
-  color: write;
+.footer{	
+	margin-top: 50px;
+}
+
+.footer p {
+	color: white;
 }
 
 
-	  @media screen and (max-width: 769px) {
-		.img-footer{
+@media screen and (max-width: 769px) {
+
+.img-footer{
   width: 100%;
   margin: 20px;
 }
 			
-	  }
-	}
+}
+	
