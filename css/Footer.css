@@ -1,4 +1,8 @@
 
+.img-footer{
+  width: 45%;
+  margin: 20px;
+}
 
 .row{
   max-width: 1355px;
@@ -45,8 +49,9 @@
   transform: scale(1.2);
 }
 
-.img-footer{
-  width: 45%;
-  margin: 20px;
+.footer{
+  margin-top: 30px ;
+  background-color: #104274;
+ color:white ;
 }
 
