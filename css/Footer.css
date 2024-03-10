@@ -50,13 +50,23 @@
 }
 
 .footer{
-  margin-top: 30px ;
-  background-color: #104274;
- color:white ;
+margin: auto;
+
 }
 
-.footer{	
-	margin-top: 50px;
+
+
+.Contenedor-padre{
+  display: flex;
+  align-items: center;
+  text-align: center;
+  margin: 20px 30px;
+
+}
+
+.Contenedor-hijo{
+  margin: 10px 15px;
+ 
 }
 
 .footer p {
