@@ -1,7 +1,4 @@
-body {
-  background-color: rgba(0, 0, 0, 0.05);
 
-}
 
 #ul {
     padding: 15px 20px;
@@ -116,7 +113,7 @@ color: #65D932;
 }
 .carousel-item{
     height: 35rem;
-    background: #777;
+    background: #303030cf;
     color: white;
     Position: relative;
 }
