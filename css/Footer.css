@@ -75,9 +75,14 @@ margin-left: 30px;
 			
 }
 
+.Redes-footer{
+background-color: #1B48BF;
+}
+
+
 .Redes-footer  .icon{
   position: relative; relative;
-  background-color: #1B48BF;
+  background-color:#ffffff ;
   border-radius: 50%;
   margin: 10px 10px;
   width: 80px 80px;
