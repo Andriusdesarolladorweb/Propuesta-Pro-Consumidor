@@ -130,7 +130,7 @@ margin-left: 30px;
   pointer-events: none;
   transition: all 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
 }
-.wRedes-footer .tooltip::before {
+.Redes-footer .tooltip::before {
   position: absolute;
   content: "";
   height: 8px;
@@ -151,33 +151,33 @@ margin-left: 30px;
 .Redes-footer.icon:hover .tooltip {
   text-shadow: 0px -1px 0px rgba(0, 0, 0, 0.1);
 }
-.wrapper .facebook:hover,
-.wrapper .facebook:hover .tooltip,
-.wrapper .facebook:hover .tooltip::before {
+.Redes-footer .facebook:hover,
+.Redes-footer .facebook:hover .tooltip,
+.Redes-footerr .facebook:hover .tooltip::before {
   background-color: #3b5999;
   color: #ffffff;
 }
-.wrapper .twitter:hover,
-.wrapper .twitter:hover .tooltip,
-.wrapper .twitter:hover .tooltip::before {
+.Redes-footer .twitter:hover,
+.Redes-footer .twitter:hover .tooltip,
+.Redes-footer .twitter:hover .tooltip::before {
   background-color: #46c1f6;
   color: #ffffff;
 }
-.wrapper .instagram:hover,
-.wrapper .instagram:hover .tooltip,
-.wrapper .instagram:hover .tooltip::before {
+.Redes-footer.instagram:hover,
+.Redes-footer .instagram:hover .tooltip,
+.Redes-footer .instagram:hover .tooltip::before {
   background-color: #e1306c;
   color: #ffffff;
 }
-.wrapper .github:hover,
-.wrapper .github:hover .tooltip,
-.wrapper .github:hover .tooltip::before {
+.Redes-footer .github:hover,
+.Redes-footer .github:hover .tooltip,
+.Redes-footer .github:hover .tooltip::before {
   background-color: #333333;
   color: #ffffff;
 }
-.wrapper .youtube:hover,
-.wrapper .youtube:hover .tooltip,
-.wrapper .youtube:hover .tooltip::before {
+.Redes-footer .youtube:hover,
+.Redes-footer .youtube:hover .tooltip,
+.Redes-footer .youtube:hover .tooltip::before {
   background-color: #de463b;
   color: #ffffff;
 
