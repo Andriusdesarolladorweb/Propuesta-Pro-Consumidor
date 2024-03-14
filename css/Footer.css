@@ -99,14 +99,15 @@ margin-left: 30px;
 			
 }
 
-.wrapper .icon{wrapper .icon{
-  position: relative;: relative;
+.Redes-footer  .icon{
+  position: relative; relative;
   background-color: #ffffff;-color: #ffffff;
   border-radius: 50%;-radius: 50%;
-  margin: 10px;: 10px;
-  width: 50px;: 50px;
-  height: 50px;: 50px;
-  line-height: 50px;-height: 50px;
+  margin: 10px 10px;
+  width: 50px 50px;
+  height: 50px 50px;
+  line-height: 50px;
+	-height: 50px;
   font-size: 22px;-size: 22px;
   display: inline-block;: inline-block;
   align-items: center;-items: center;
@@ -115,7 +116,7 @@ margin-left: 30px;
   transition: all 0.2s cubic-bezier(0.68, -0.55, 0.265, 1.55);: all 0.2s cubic-bezier(0.68, -0.55, 0.265, 1.55);
   color: #333;: #333;
   text-decoration: none;-decoration: none;
-}}
+}
 .wrapper .tooltip {.wrapper .tooltip {
   position: absolute;: absolute;
   top: 0;: 0;
