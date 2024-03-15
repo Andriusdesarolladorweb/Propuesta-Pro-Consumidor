@@ -49,10 +49,7 @@ color: #65D932;
 }
 
 .logo{
-   
    margin: 4%;
-
-   
 }
 
 .dropdown .dropdown-menu {
@@ -67,12 +64,10 @@ color: #65D932;
   display: block;
   margin-top: 0.125em;
   margin-left: 0px;
-  
   background-color:#104274;
 }
 
 .dropend .dropdown-toggle{
-  
     margin-left: 1em;
   }
   
@@ -89,9 +84,6 @@ color: #65D932;
       margin-left: .5em;
     }
   }
-
- 
-
 
 .fondo-img{
    position: absolute;
